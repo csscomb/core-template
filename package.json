@@ -1,0 +1,9 @@
+{
+    "name": "flip-comb",
+    "version": "1.0.0",
+    "dependencies": {
+        "csscomb-core": "~1.0.0"
+    },
+    "license": "MIT",
+    "main": "./lib/flip-comb.js"
+}
