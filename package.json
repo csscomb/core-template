@@ -2,7 +2,7 @@
     "name": "flip-comb",
     "version": "1.0.0",
     "dependencies": {
-        "csscomb-core": "~1.0.0"
+        "csscomb-core": "~2.0.3"
     },
     "license": "MIT",
     "main": "./lib/flip-comb.js"
